@@ -6,8 +6,6 @@ import Header from './Header/Header';
 function App() {
   return (
     <div className="app">
-      <h1>Hi</h1>
-
       <Header />
       <Home />
     </div>
